@@ -1,0 +1,56 @@
+body {
+	background-color: skyblue;
+	margin: 0px;
+	padding: 0px;
+}
+
+.jumbotron {
+    background-color:skyblue;
+}
+.jumbotron h1 {
+    color: black	;
+    font-weight: bolder;
+    font-size: 62px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+
+.target-number {
+	font-size: 35px;
+	background-color: lightyellow;
+	border-style: solid;
+	border-color: skyblue;
+	border-width: 2px;
+	text-align: center;
+	color:  blue;
+}
+
+.win-lose-counter {
+	background-color:lightyellow;
+	border-style: solid;
+	border-color: skyblue;
+	border-width: 2px;
+	text-align: center;
+	font-weight: bold;
+	color: blue;
+}
+
+.images {
+	height: 150px;
+	width: 130px;;
+    float: left;
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
+
+.total-score {
+	color:  blue;	
+	background-color:lightyellow;
+}
+
+.score-number {
+	color: blue;
+	background-color:lightyellow;
+	font-size: 35px;
+}
